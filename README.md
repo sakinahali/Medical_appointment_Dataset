@@ -5,7 +5,7 @@
 # No_show Medical Appointment. 
 # Overview
 
-This dataset is about the appointment of patients, whether they showed up or not. The dataset collects information from 100k medical appointments in Brazil. 
+This dataset is about the appointment of patients, whether they showed up or not. The dataset entails information from 100k medical appointments in Brazil. 
 
 ## Dataset information
 The dataset contains 14 columns and 110527 rows
