@@ -1,7 +1,3 @@
-
-![medical picture](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
-
-
 # No_show Medical Appointment. 
 # Overview
 
